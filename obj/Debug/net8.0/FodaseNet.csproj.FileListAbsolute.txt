@@ -1,0 +1,14 @@
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\bin\Debug\net8.0\FodaseNet.exe
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\bin\Debug\net8.0\FodaseNet.deps.json
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\bin\Debug\net8.0\FodaseNet.runtimeconfig.json
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\bin\Debug\net8.0\FodaseNet.dll
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\bin\Debug\net8.0\FodaseNet.pdb
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.AssemblyInfoInputs.cache
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.AssemblyInfo.cs
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.csproj.CoreCompileInputs.cache
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.dll
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\refint\FodaseNet.dll
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.pdb
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\FodaseNet.genruntimeconfig.cache
+C:\Users\paulo.brito\Desktop\Mine\codeStuff\C#\FodaseNet\obj\Debug\net8.0\ref\FodaseNet.dll
