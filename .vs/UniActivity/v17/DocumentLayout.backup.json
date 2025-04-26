@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\funcionarios\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\funcionarios\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\funcionarios\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\funcionarios\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\projetos\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\projetos\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|c:\\users\\paulo.brito\\onedrive - craft\\desktop\\mine\\codestuff\\c#\\uniactitivypoo\\model\\projetos\\alocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FBFF-4F02-488B-941E-1F271E2DBEFC}|UniActivity.csproj|solutionrelative:model\\projetos\\alocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Repository.cs",
+              "RelativeDocumentMoniker": "Model\\Repository.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Repository.cs",
+              "RelativeToolTip": "Model\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:44:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alocacao.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Projetos\\Alocacao.cs",
+              "RelativeDocumentMoniker": "Model\\Projetos\\Alocacao.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Projetos\\Alocacao.cs",
+              "RelativeToolTip": "Model\\Projetos\\Alocacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:44:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Projetos\\Projeto.cs",
+              "RelativeDocumentMoniker": "Model\\Projetos\\Projeto.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Projetos\\Projeto.cs",
+              "RelativeToolTip": "Model\\Projetos\\Projeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:43:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Gerente.cs",
+              "RelativeDocumentMoniker": "Model\\Funcionarios\\Gerente.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Gerente.cs",
+              "RelativeToolTip": "Model\\Funcionarios\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:42:13.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Desenvolvedor.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Desenvolvedor.cs",
+              "RelativeDocumentMoniker": "Model\\Funcionarios\\Desenvolvedor.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Desenvolvedor.cs",
+              "RelativeToolTip": "Model\\Funcionarios\\Desenvolvedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:41:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Model\\Funcionarios\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Model\\Funcionarios\\Funcionario.cs",
+              "RelativeToolTip": "Model\\Funcionarios\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:41:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paulo.brito\\OneDrive - CRAFT\\Desktop\\Mine\\codeStuff\\C#\\UniActitivyPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:35:36.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
